@@ -1,2 +1,2 @@
-hostname
-mgmt01 conf
+
+mgmt01-ina
